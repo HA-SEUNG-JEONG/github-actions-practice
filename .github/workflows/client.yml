@@ -32,4 +32,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-111-ha-seung-jeong \
             --delete
-        working-directory: ./github/workflows/client.yml
+        working-directory: scripts
